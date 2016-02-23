@@ -6,7 +6,7 @@
 
     <groupId>com.kagurabi</groupId>
     <artifactId>kagura</artifactId>
-    <version>1.9-SNAPSHOT</version>
+    <version>1.10-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Kagura</name>
@@ -55,9 +55,9 @@
       </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:base2Services/kagura.git</connection>
-        <developerConnection>scm:git:git@github.com:base2Services/kagura.git</developerConnection>
-        <url>git@github.com:base2Services/kagura.git</url>
+        <connection>scm:git:git@github.com:kagurabi/kagura-original.git</connection>
+        <developerConnection>scm:git:git@github.com:kagurabi/kagura-original.git</developerConnection>
+        <url>git@github.com:kagurabi/kagura-original.git</url>
     </scm>
 
     <distributionManagement>
