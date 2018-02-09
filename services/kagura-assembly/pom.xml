@@ -144,7 +144,7 @@
                 <executions>
                     <execution>
                         <id>add-features-to-repo</id>
-                        <phase>compile</phase>
+                        <phase>generate-resources</phase>
                         <goals>
                             <goal>add-features-to-repo</goal>
                         </goals>
