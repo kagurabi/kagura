@@ -402,7 +402,7 @@
     <modules>
         <module>kagura-camel</module>
         <module>kagura-features</module>
-        <module>kagura-assembly</module>
+        <!--<module>kagura-assembly</module>-->
         <module>example-authrest</module>
     </modules>
 
