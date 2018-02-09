@@ -65,6 +65,7 @@
                 <executions>
                     <execution>
                         <id>generate-features-file</id>
+                        <phase>generate-resources</phase>
                         <goals>
                             <goal>generate-features-file</goal>
                         </goals>
