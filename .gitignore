@@ -12,3 +12,5 @@ target
 war-rest/overlays/
 settings.xml
 profile.xml
+*.releaseBackup
+release.properties
